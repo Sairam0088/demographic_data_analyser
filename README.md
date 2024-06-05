@@ -5,7 +5,6 @@ Explanation of the files in the project and their purposes.
 
 demographic_data_analyzer.py: Contains functions to analyze demographic data using Pandas.
 main.py: Script to test the functions in demographic_data_analyzer.py.
-test_module.py: Unit tests for the functions in demographic_data_analyzer.py.
 your_dataset.csv: Sample dataset for testing.
 
 ## Dependencies
